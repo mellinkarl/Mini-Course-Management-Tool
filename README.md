@@ -4,8 +4,8 @@
 This tool is created as a practice for developing something like Canvas.
 
 Currently, there are 9 users in Auth0:
-admin1@osu.com
-instructor1@osu.com, instructor2@osu.com
+admin1@osu.com,
+instructor1@osu.com, instructor2@osu.com,
 student1@osu.com, student2@osu.com, ... , student6@osu.com.
 
 As of now, Postman or another HTTP request software must be used with valid credentials (as specified in  dataDescription.pdf) to send requests to the application.
